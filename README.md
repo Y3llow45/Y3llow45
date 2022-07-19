@@ -7,3 +7,5 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Y3llow45&show_icons=true)
 <br>
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Y3llow45&theme=blue-green)
+<br>
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" theme="radical" />
