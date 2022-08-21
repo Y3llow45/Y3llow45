@@ -17,6 +17,6 @@
 <br>
 <h3>Programming languages</h3>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray"> 
-
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Y3llow45&theme=blue-green)
 
 </details>
