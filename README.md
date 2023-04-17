@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on p2p chat app with electron
 - 🌱 I’m learning python, javascript and c++
-- 💻 I'm interested in pentesting
+- 💻 I'm interested in pentesting and ethical hacking
 
 <!--<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>-->
 ---
