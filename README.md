@@ -2,13 +2,13 @@
  
 
 - 🔭 I’m currently working on p2p chat app with electron
-- 🌱 I’m learning python, javascript and c++
+- 🌱 I’m currently learning typescript
 - 💻 I'm interested in pentesting and ethical hacking
 
 <!--<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>-->
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools :
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg"  title="Electron" alt="Electron" width="40" height="40">&nbsp;
@@ -28,7 +28,7 @@
 
 ---
 
-### :fire: My Stats :
+### 🔥 My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Y3llow45&theme=python-dark&hide_border=true&border_radius=3)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Y3llow45&layout=compact&theme=vision-friendly-dark&langs_count=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
