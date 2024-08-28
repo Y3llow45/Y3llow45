@@ -1,8 +1,8 @@
 <div align="center">
  
-### Hello there 👋
+## Hello there 👋
  
-#### 🔭 I’m currently working on cards game with websocket <br> 💻 I'm interested in pentesting and ethical hacking⠀⠀⠀⠀<br> 🌱 I’m currently learning .NET and Azure⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+### 🔭 I’m currently working on cards game with websocket <br> 💻 I'm interested in pentesting and ethical hacking⠀⠀⠀⠀<br> 🌱 I’m currently learning .NET and Azure⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 ---
 
