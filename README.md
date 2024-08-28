@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning .NET and Azure
 - 💻 I'm interested in pentesting and ethical hacking
 
-<!--<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>-->
 ---
 
 ### 🛠️ Languages and Tools :
