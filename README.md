@@ -1,9 +1,8 @@
+<div align="center">
+ 
 ### Hello there 👋
  
-
-- 🔭 I’m currently working on cards game with socket.io
-- 🌱 I’m currently learning .NET and Azure
-- 💻 I'm interested in pentesting and ethical hacking
+#### 🔭 I’m currently working on cards game with websocket <br> 💻 I'm interested in pentesting and ethical hacking⠀⠀⠀⠀<br> 🌱 I’m currently learning .NET and Azure⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 ---
 
@@ -45,5 +44,5 @@
 
 ### 🔥 My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Y3llow45&theme=python-dark&hide_border=true&border_radius=3)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Y3llow45&layout=compact&theme=vision-friendly-dark&langs_count=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+</div>
