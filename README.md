@@ -43,7 +43,7 @@
 ---
 
 ### 🔥 My Stats :
-[![GitHub Streak](https://github-readme-streak-stats-bice-sigma.vercel.app?user=Y3llow45&theme=dark&card_height=220&border=00000000)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-bice-sigma.vercel.app?user=Y3llow45&theme=dark&card_height=300&border=00000000" alt="GitHub Streak" /></a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Y3llow45&layout=compact&theme=vision-friendly-dark&langs_count=15&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://count.getloli.com/get/@Y3llow45.github.readme)
