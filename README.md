@@ -46,5 +46,7 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-bice-sigma.vercel.app?user=Y3llow45&theme=dark&card_height=292&border=00000000" alt="GitHub Streak" /></a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Y3llow45&layout=compact&theme=vision-friendly-dark&langs_count=15&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://github.com/user-attachments/assets/c1732e47-5bd0-4ac3-8664-b936f89eb4a8" width="420">
+
 ![](https://count.getloli.com/get/@Y3llow45.github.readme)
 </div>
