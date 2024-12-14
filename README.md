@@ -48,5 +48,6 @@
 
 <img src="https://github.com/user-attachments/assets/c1732e47-5bd0-4ac3-8664-b936f89eb4a8" width="420">
 
-![](https://count.getloli.com/get/@Y3llow45.github.readme)
+<!--![](https://count.getloli.com/get/@Y3llow45.github.readme)-->
+![](https://count.getloli.com/@Y3llow45?name=Y3llow45&theme=nixietube-1&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 </div>
