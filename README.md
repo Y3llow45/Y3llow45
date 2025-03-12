@@ -2,11 +2,13 @@
  
 ## Hello there 👋
  
-### 🔭 I’m currently working on chat app with RabbitMQ and Crypto.js <br> 💻 I'm interested in pentesting, ethical hacking and social engineering <br> 🌱 I’m currently learning DevOPS and Go⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+### 🔭 I’m currently working on chat app with RabbitMQ and Crypto.js <br> 💻 I'm interested in pentesting, ethical hacking and social engineering <br> 🌱 I’m currently learning DevOPS and Go⠀⠀⠀⠀⠀
+ 
+## About Me
+### I have CI/CD pipelines running flawlessly, but my morning routine crashes at least twice a week.⠀
+___
 
----
-
-### 🛠️ Languages and Tools :
+## 🛠️ Languages and Tools :
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40">&nbsp;
@@ -42,7 +44,7 @@
 
 ---
 
-### 🔥 My Stats :
+## 🔥 My Stats :
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-bice-sigma.vercel.app?user=Y3llow45&theme=dark&card_height=292&border=00000000" alt="GitHub Streak" /></a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Y3llow45&layout=compact&theme=vision-friendly-dark&langs_count=15&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
