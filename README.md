@@ -2,7 +2,7 @@
  
 ## Hello there 👋
  
-### 🔭 I’m currently working on spring web apps <br> 💻 I'm interested in pentesting, ethical hacking and social engineering <br> 🌱 I’m currently learning DevOPS and Java⠀⠀⠀⠀⠀
+### 🔭 I’m currently working on spring web apps <br> 💻 I'm interested in pentesting, ethical hacking and social engineering <br> 🌱 I’m currently learning DevOPS and Java <br>⠀⚡ Fueled by dopamine-driven development (aka midnight coding thrills)⠀⠀⠀⠀
  
 ## About Me
 ### I have CI/CD pipelines running flawlessly, but my morning routine crashes at least twice a week.⠀
