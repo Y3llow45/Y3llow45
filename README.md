@@ -2,10 +2,12 @@
  
 ## Hello there 👋
  
-### 🔭 I’m currently working on chat app with RabbitMQ and Crypto.js <br> 💻 I'm interested in pentesting, ethical hacking and social engineering <br> 🌱 I’m currently learning DevOPS and Go⠀⠀⠀⠀⠀
+### 🔭 I’m currently working on spring web apps <br> 💻 I'm interested in pentesting, ethical hacking and social engineering <br> 🌱 I’m currently learning DevOPS and Java⠀⠀⠀⠀⠀
  
 ## About Me
 ### I have CI/CD pipelines running flawlessly, but my morning routine crashes at least twice a week.⠀
+
+### Self-aware moment: I’ve started using bcrypt to hash my houseplant watering schedule, which is either genius or a cry for help.
 ___
 
 ## 🛠️ Languages and Tools :
