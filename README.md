@@ -1,34 +1,38 @@
 <div align="center">
  
-## Hello there 👋
+## Hello there 👋ʕ•͡-•ʔ
  
-### 🔭 I’m currently working on spring web apps <br> 💻 I'm interested in pentesting, ethical hacking and social engineering <br> 🌱 I’m currently learning DevOPS and Java <br>⠀⚡ Fueled by dopamine-driven development (aka midnight coding thrills)⠀⠀⠀⠀
+### 🔭 I’m currently working on spring web apps <br> 💻 I'm interested in pentesting, ethical hacking and social engineering <br> 🌱 I’m currently learning DevOPS and Java <br> ⚡ Dopamine-driven development
  
 ## About Me
-### I have CI/CD pipelines running flawlessly, but my morning routine crashes at least twice a week.⠀
+I have CI/CD pipelines running flawlessly, but my morning routine crashes at least twice a week.⠀
 
-### Self-aware moment: I’ve started using bcrypt to hash my houseplant watering schedule, which is either genius or a cry for help.
+Studied construction & architecture at PGSAG "Angel Popov", Veliko Turnovo  
+Currently studying transportation engineering at VTU "Todor Kableshkov", Sofia  
+Two‑time first‑place winner at the National Spring IT Tournament & laureate of the Chamber of Architects in Bulgaria
 ___
 
 ## 🛠️ Languages and Tools :
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40">&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="python" alt="python" width="40" height="40">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="40" height="40">&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next" alt="Next " width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular " width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" title="Svelte" alt="Svelte" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next" alt="Next" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg"  title="Electron" alt="Electron" width="40" height="40">&nbsp;
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="redis" alt="redis" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="redis" alt="redis" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb" width="40" height="40">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="redis" alt="redis" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40">&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
 <img src="https://user-images.githubusercontent.com/68009977/215513043-adc9b4ae-4cc1-425d-b11f-c792568c8704.png" title="Express" alt="Express" width="40" height="40">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title="dot-net" alt="dot-net" width="40" height="40">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodemon/nodemon-original.svg" title="nodemon" alt="nodemon" width="40" height="40">&nbsp;
@@ -37,6 +41,7 @@ ___
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"  title="tailwindcss" alt="tailwindcss" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="40" height="40">&nbsp;
 <img src="https://github.com/user-attachments/assets/2ffa48e6-2fe8-49de-8b67-9cccfb83be47" title="socket" alt="socket" width="40" height="40">&nbsp;
