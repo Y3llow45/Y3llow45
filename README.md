@@ -12,7 +12,7 @@ Currently studying transportation engineering at VTU "Todor Kableshkov", Sofia
 Two‑time first‑place winner at the National Spring IT Tournament & laureate of the Chamber of Architects in Bulgaria
 ___
 
-## 🛠️ Languages and Tools :
+## 🛠️ Languages and Tools
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40">&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40">&nbsp;
@@ -51,10 +51,19 @@ ___
 
 ---
 
-## 🔥 My Stats :
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-bice-sigma.vercel.app?user=Y3llow45&theme=dark&card_height=292&border=00000000" alt="GitHub Streak" /></a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Y3llow45&layout=compact&theme=vision-friendly-dark&langs_count=15&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+## 🔥 My Stats
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats-bice-sigma.vercel.app?user=Y3llow45&theme=dark&card_height=292&border=00000000" alt="GitHub Streak" />
+</a>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img
+    src="https://github-readme-stats-y3llow46s-projects.vercel.app/api/top-langs/?username=Y3llow45&layout=compact&theme=vision-friendly-dark&langs_count=15&hide_border=true&format=png"
+    alt="Top Langs"
+  />
+</a>
+
+<br>
 <img src="https://github.com/user-attachments/assets/c1732e47-5bd0-4ac3-8664-b936f89eb4a8" width="420">
 
 <!--![](https://count.getloli.com/get/@Y3llow45.github.readme)-->
