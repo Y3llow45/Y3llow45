@@ -1,15 +1,12 @@
 <div align="center">
  
 ## Hello there 👋ʕ•͡-•ʔ
- 
-### 🔭 I’m currently working on spring web apps <br> 💻 I'm interested in pentesting, ethical hacking and social engineering <br> 🌱 I’m currently learning DevOPS and Java <br> ⚡ Dopamine-driven development
- 
-## About Me
-I have CI/CD pipelines running flawlessly, but my morning routine crashes at least twice a week.⠀
 
-Studied construction & architecture at PGSAG "Angel Popov", Veliko Turnovo  
-Currently studying transportation engineering at VTU "Todor Kableshkov", Sofia  
-Two‑time first‑place winner at the National Spring IT Tournament & laureate of the Chamber of Architects in Bulgaria
+### 🔭 I’m currently working on spring web apps <br> 💻 I'm interested in pentesting, ethical hacking and social engineering <br> 🌱 I’m currently learning DevOPS and Java <br> ⚡ Dopamine-driven development
+
+## About Me
+
+### I have CI/CD pipelines running flawlessly, but my morning routine crashes at least twice a week.⠀<br> Studied construction & architecture at PGSAG "Angel Popov", Veliko Turnovo <br> Currently studying transportation engineering at VTU "Todor Kableshkov", Sofia <br> Two‑time first‑place winner at the National Spring IT Tournament & laureate of the Chamber of Architects in Bulgaria
 ___
 
 ## 🛠️ Languages and Tools
@@ -52,17 +49,10 @@ ___
 ---
 
 ## 🔥 My Stats
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats-bice-sigma.vercel.app?user=Y3llow45&theme=dark&card_height=292&border=00000000" alt="GitHub Streak" />
-</a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img
-    src="https://github-readme-stats-y3llow46s-projects.vercel.app/api/top-langs/?username=Y3llow45&layout=compact&theme=vision-friendly-dark&langs_count=15&hide_border=true&format=png"
-    alt="Top Langs"
-  />
-</a>
+<img src="https://github-readme-streak-stats-bice-sigma.vercel.app?user=Y3llow45&theme=dark&card_height=292&border=00000000" alt="GitHub Streak" />
 
+<img width="302" height="265" alt="Screenshot (384)" src="https://github.com/user-attachments/assets/f5dfb167-41c5-45ce-a642-c18e7c94a9e9" />
 <br>
 <img src="https://github.com/user-attachments/assets/c1732e47-5bd0-4ac3-8664-b936f89eb4a8" width="420">
 
@@ -76,6 +66,6 @@ ___
 ![Email Copied](https://img.shields.io/endpoint?url=https://portfolio-y3llow46s-projects.vercel.app/api/views%3Fbadge%3Dcopy_email&style=for-the-badge&color=%23FF8C00)
 ![Awards Link Opened](https://img.shields.io/endpoint?url=https://portfolio-y3llow46s-projects.vercel.app/api/views%3Fbadge%3Dclick_award_link&style=for-the-badge&color=purple)
 
-This is real-time data from a Node.js server using server-side tracking and Redis for storage. ⚠️**DO NOT** use my tracking server for large-scale or production use — there can be serious legal consequences. I’m not responsible if this gets you into legal issues.
+### This is real-time data from a Node.js server using server-side tracking and Redis for storage. ⚠️**DO NOT** use my tracking server for large-scale or production use — there can be serious legal consequences. I’m not responsible if this gets you into legal issues.
 
 </div>
