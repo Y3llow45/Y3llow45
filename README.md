@@ -2,7 +2,7 @@
  
 ## Hello there 👋ʕ•͡-•ʔ
 
-### 🔭 I’m currently working on spring web apps <br> 💻 I'm interested in pentesting, ethical hacking and social engineering <br> 🌱 I’m currently learning DevOPS and Java <br> ⚡ Dopamine-driven development
+### Check out my cool <a href="https://portfolio-y3llow46s-projects.vercel.app/">portfolio</a> <br> 🔭 I’m currently working on Spring web apps <br> 💻 I'm interested in pentesting, ethical hacking and social engineering <br> 🌱 I’m currently learning Java and Spring <br> ⚡ Dopamine-driven development
 
 ## About Me
 
