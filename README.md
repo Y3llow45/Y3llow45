@@ -66,6 +66,6 @@ ___
 ![Email Copied](https://img.shields.io/endpoint?url=https://portfolio-y3llow46s-projects.vercel.app/api/views%3Fbadge%3Dcopy_email&style=for-the-badge&color=%23FF8C00)
 ![Awards Link Opened](https://img.shields.io/endpoint?url=https://portfolio-y3llow46s-projects.vercel.app/api/views%3Fbadge%3Dclick_award_link&style=for-the-badge&color=purple)
 
-### This is real-time data from a Node.js server using server-side tracking and Redis for storage. ⚠️**DO NOT** use my tracking server for large-scale or production use — there can be serious legal consequences. I’m not responsible if this gets you into legal issues.
+### This is real-time data from a Node.js server using server-side tracking and Redis for storage. ⚠️**I DO NOT** collect any personal information nor use cookies.
 
 </div>
