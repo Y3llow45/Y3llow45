@@ -10,6 +10,7 @@
 <p align="center">
 <img width="769" height="390" alt="aboutimg" src="https://github.com/user-attachments/assets/01193504-29e1-47ea-a601-a6869addbdc7" />
 </p>
+
 ___
 
 ## 🛠️ Languages and Tools
