@@ -7,6 +7,9 @@
 ## About Me
 
 ### I have CI/CD pipelines running flawlessly, but my morning routine crashes at least twice a week.⠀<br> Studied construction & architecture at PGSAG "Angel Popov", Veliko Turnovo <br> Currently studying transportation engineering at VTU "Todor Kableshkov", Sofia <br> Two‑time first‑place winner at the National Spring IT Tournament & laureate of the Chamber of Architects in Bulgaria
+<p align="center">
+<img width="769" height="390" alt="aboutimg" src="https://github.com/user-attachments/assets/01193504-29e1-47ea-a601-a6869addbdc7" />
+</p>
 ___
 
 ## 🛠️ Languages and Tools
